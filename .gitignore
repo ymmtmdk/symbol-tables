@@ -1,0 +1,9 @@
+target
+lib
+*.zip
+.gradle
+gradle
+build
+gradlew
+gradlew.bat
+
